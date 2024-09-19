@@ -20,10 +20,10 @@ define('IS_MAIL', false);
 // 只测试过 outlook 其它邮箱可能不支持
 define('SMTP_SERVER', 'smtp-mail.outlook.com');
 define('SMTP_PORT', 587);
-define('SMTP_USERNAME', 'you-name@outlook.com');
+define('SMTP_USERNAME', 'a79521@outlook.com');
 define('SMTP_PASSWORD', 'you-password');
 define('SMTP_FROM', 'SERV00自动');
-define('SMTP_TO', 'you-name@outlook.com');
+define('SMTP_TO', 'a79521@outlook.com');
 
 class serv00{
 
